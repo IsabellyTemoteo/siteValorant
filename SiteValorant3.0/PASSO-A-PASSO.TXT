@@ -1,0 +1,12 @@
+1) Baixe e instale o XAMP
+2) Execute o XAMP e ligue os recursos APACHE e MYSQL
+3) Vá na pasta (local do arquivo) do XAMP e procure pela pasta htdocs
+4) Cole a pasta do site nesse lugar
+5) Vá até o navegador com os serviços do XAMP LIGADOS e digite por localhost/Sitevalorant
+6) Abra uma nova aba com e digite localhost/phpmyadmin
+7) Crie o banco de dados com os comandos escritos em conexao.php
+8) Preencha os dados do formulário 
+9) Cadastre
+10) Verifique se deu tudo certo pela página e logo dps no site phpmyadmin
+
+11) Da pra usar a WORKBENCH tbm mas nao sei direito

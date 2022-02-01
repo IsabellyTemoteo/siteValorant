@@ -1,0 +1,97 @@
+#back-f1{
+    background-color: #ff4040;
+}
+
+#back-f3{
+    background-color: #ff4040;
+}
+
+#back-f2{
+    background-color:rgba(175, 119, 119, 0.158)
+}
+
+#back-f4{
+    background-color: green;
+}
+
+#img{
+    text-align: center;
+}
+
+#img-h:hover{
+
+    text-align: center;
+    width: 900px;
+    height: 600px;
+}
+
+#title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+}
+
+#title-1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 40px;
+}
+
+#font-1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+#font-2{
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+font-size: 15px;
+text-decoration: underline;
+}
+
+#font-3{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+#center{
+    text-align: center;
+}
+
+table, td{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border: solid black 2px;
+}
+
+#ul-h{
+    text-align: center;
+
+}
+
+#ul-h li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    background-color:#ff4040;
+}
+
+#ul-h li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#imgpos {
+    position: relative;
+    left: 110px;
+    top: 10px;
+}
+
